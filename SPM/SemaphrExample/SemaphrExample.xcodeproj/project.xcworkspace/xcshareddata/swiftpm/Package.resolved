@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/semaphr/iOS",
+      "state" : {
+        "revision" : "2e00630748daae879deb5c27eb04efe831bc558c",
+        "version" : "1.0.8"
+      }
+    }
+  ],
+  "version" : 2
+}

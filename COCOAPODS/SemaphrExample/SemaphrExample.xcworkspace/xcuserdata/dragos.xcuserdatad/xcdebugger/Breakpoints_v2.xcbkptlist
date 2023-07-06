@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "54FCA876-3FF0-430D-B414-1CEB05E153D4"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08A251C9-D2DF-433B-A13D-BD04E8D18B8A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../semaphr-ios-sdk/Sources/Semaphr/extensions/UIImage+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "frameworkImage(named:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08A251C9-D2DF-433B-A13D-BD04E8D18B8A - 97bd50c4fb93b241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static __C.UIImage.frameworkImage(named: Swift.String) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Semaphr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk/Sources/Semaphr/extensions/UIImage+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "212">
+               </Location>
+               <Location
+                  uuid = "08A251C9-D2DF-433B-A13D-BD04E8D18B8A - 97bd50c4fb93b241"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static __C.UIImage.frameworkImage(named: Swift.String) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Semaphr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk/Sources/Semaphr/extensions/UIImage+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "08A251C9-D2DF-433B-A13D-BD04E8D18B8A - 97bd50c4fb93b30b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static __C.UIImage.frameworkImage(named: Swift.String) -&gt; Swift.Optional&lt;__C.UIImage&gt;"
+                  moduleName = "Semaphr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk/Sources/Semaphr/extensions/UIImage+Extension.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "432B8FE6-FF63-4496-ABCC-7048D8437E20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../semaphr-ios-sdk/Sources/Semaphr/extensions/UIImage+Extension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "frameworkImage(named:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

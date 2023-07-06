@@ -1,0 +1,13 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'SemaphrExample' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Add the semaphr pod
+#  pod 'Semaphr', :git => 'https://github.com/semaphr/iOS'
+
+  pod 'Semaphr', :path => '/Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk'
+
+end

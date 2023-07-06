@@ -1,0 +1,6 @@
+framework module Semaphr {
+  umbrella header "Semaphr-umbrella.h"
+
+  export *
+  module * { export * }
+}

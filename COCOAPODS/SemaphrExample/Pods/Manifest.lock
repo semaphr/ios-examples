@@ -1,0 +1,16 @@
+PODS:
+  - Semaphr (1.0.8)
+
+DEPENDENCIES:
+  - Semaphr (from `/Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk`)
+
+EXTERNAL SOURCES:
+  Semaphr:
+    :path: "/Users/dragos/Documents/Code/appssemble/semaphr-ios-sdk"
+
+SPEC CHECKSUMS:
+  Semaphr: 935c66828d50d49416ede3cccac124b2e9e1fb76
+
+PODFILE CHECKSUM: b12730671dcc2064f26d79fee947d207231a2e48
+
+COCOAPODS: 1.12.0
